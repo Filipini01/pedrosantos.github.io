@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-MSc in Statistics -- University of São Paulo -- 2016-Present
-
-BS in Economics -- Federal University of São Paulo -- 2011--2015
+I am ...
