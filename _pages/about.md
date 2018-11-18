@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-blablablabalaa
+MSc in Statistics -- University of São Paulo -- 2016-Present
+
+BS in Economics -- Federal University of São Paulo -- 2011--2015
