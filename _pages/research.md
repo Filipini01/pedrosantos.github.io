@@ -14,4 +14,5 @@ Working Paper
 * M.S. in Testonomy, Testing University, 2014
 * Ph.D in Version Control Theory, Github University, 2017 (expected)
 * Ph.D in Testology, Testing University, 2017 (expected)
+
 ======
