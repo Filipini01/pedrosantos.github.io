@@ -14,7 +14,7 @@ description              : &description "Ph.D. Applicant"
 url                      : https://pedrofilipini.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pedrofilipini/pedrofilipini.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300."
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Pedro Henrique Filipini dos Santos"
-  avatar           : "Foto_Pedro.png"
+  avatar           : "profile.png"
   bio              : "Brazilian, 27 years-old"
   location         : "São Paulo, Brazil"
   employer         :
