@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-My main interest related to Statistics is based on Time Series and the application of Bayesian models and techniques.
-
 ======
 
 Submitted/Working Papers:
